@@ -1,0 +1,325 @@
+model,area,question_type,mean_fk_grade,mean_reading_ease,n,dist_from_band
+Gemma 3 27b,HS-ESS1,applied,10.75,50.77,96,0.0
+Gemma 3 27b,HS-ESS1,conceptual,11.22,45.23,96,0.0
+Gemma 3 27b,HS-ESS1,recall,10.92,46.97,93,0.0
+Gemma 3 27b,HS-ESS2,applied,11.11,44.7,96,0.0
+Gemma 3 27b,HS-ESS2,conceptual,11.14,43.95,99,0.0
+Gemma 3 27b,HS-ESS2,recall,11.45,41.66,93,0.0
+Gemma 3 27b,HS-ESS3,applied,12.16,36.98,102,0.0
+Gemma 3 27b,HS-ESS3,conceptual,12.47,35.25,96,0.0
+Gemma 3 27b,HS-ESS3,recall,12.76,34.39,96,0.0
+Gemma 3 27b,HS-ETS1,applied,12.85,32.21,102,0.0
+Gemma 3 27b,HS-ETS1,conceptual,13.55,24.58,96,0.0
+Gemma 3 27b,HS-ETS1,recall,11.81,37.38,93,0.0
+Gemma 3 27b,HS-LS1,applied,11.34,43.46,99,0.0
+Gemma 3 27b,HS-LS1,conceptual,11.67,40.18,99,0.0
+Gemma 3 27b,HS-LS1,recall,11.51,41.82,96,0.0
+Gemma 3 27b,HS-LS2,applied,11.39,42.18,84,0.0
+Gemma 3 27b,HS-LS2,conceptual,12.49,34.51,87,0.0
+Gemma 3 27b,HS-LS2,recall,12.99,31.69,93,0.0
+Gemma 3 27b,HS-LS3,applied,11.11,46.19,93,0.0
+Gemma 3 27b,HS-LS3,conceptual,10.97,45.51,93,0.0
+Gemma 3 27b,HS-LS3,recall,10.95,44.69,96,0.0
+Gemma 3 27b,HS-LS4,applied,12.19,39.38,96,0.0
+Gemma 3 27b,HS-LS4,conceptual,12.89,32.32,96,0.0
+Gemma 3 27b,HS-LS4,recall,13.07,30.84,93,0.0
+Gemma 3 27b,HS-PS1,applied,11.07,46.69,99,0.0
+Gemma 3 27b,HS-PS1,conceptual,11.64,42.93,99,0.0
+Gemma 3 27b,HS-PS1,recall,11.81,42.74,99,0.0
+Gemma 3 27b,HS-PS2,applied,10.21,56.96,102,0.0
+Gemma 3 27b,HS-PS2,conceptual,9.99,55.55,99,0.0
+Gemma 3 27b,HS-PS2,recall,11.18,49.84,96,0.0
+Gemma 3 27b,HS-PS3,applied,11.09,48.72,96,0.0
+Gemma 3 27b,HS-PS3,conceptual,11.94,42.05,90,0.0
+Gemma 3 27b,HS-PS3,recall,11.54,43.55,93,0.0
+Gemma 3 27b,HS-PS4,applied,11.0,49.77,102,0.0
+Gemma 3 27b,HS-PS4,conceptual,11.01,46.99,96,0.0
+Gemma 3 27b,HS-PS4,recall,11.23,44.77,96,0.0
+Gemma 4 31b,HS-ESS1,applied,10.1,54.79,96,0.0
+Gemma 4 31b,HS-ESS1,conceptual,10.88,50.28,96,0.0
+Gemma 4 31b,HS-ESS1,recall,10.95,49.25,93,0.0
+Gemma 4 31b,HS-ESS2,applied,10.92,49.29,96,0.0
+Gemma 4 31b,HS-ESS2,conceptual,10.9,48.96,99,0.0
+Gemma 4 31b,HS-ESS2,recall,11.24,46.78,93,0.0
+Gemma 4 31b,HS-ESS3,applied,12.3,40.86,102,0.0
+Gemma 4 31b,HS-ESS3,conceptual,11.86,43.52,96,0.0
+Gemma 4 31b,HS-ESS3,recall,12.37,40.22,96,0.0
+Gemma 4 31b,HS-ETS1,applied,12.99,36.1,102,0.0
+Gemma 4 31b,HS-ETS1,conceptual,12.77,35.68,96,0.0
+Gemma 4 31b,HS-ETS1,recall,11.67,41.93,93,0.0
+Gemma 4 31b,HS-LS1,applied,11.52,46.08,99,0.0
+Gemma 4 31b,HS-LS1,conceptual,11.55,44.61,99,0.0
+Gemma 4 31b,HS-LS1,recall,11.31,46.75,96,0.0
+Gemma 4 31b,HS-LS2,applied,11.78,43.61,84,0.0
+Gemma 4 31b,HS-LS2,conceptual,11.99,41.56,87,0.0
+Gemma 4 31b,HS-LS2,recall,12.59,37.51,93,0.0
+Gemma 4 31b,HS-LS3,applied,11.25,46.78,93,0.0
+Gemma 4 31b,HS-LS3,conceptual,11.05,47.93,93,0.0
+Gemma 4 31b,HS-LS3,recall,11.32,45.12,96,0.0
+Gemma 4 31b,HS-LS4,applied,11.73,43.36,96,0.0
+Gemma 4 31b,HS-LS4,conceptual,12.1,40.48,96,0.0
+Gemma 4 31b,HS-LS4,recall,12.55,37.41,93,0.0
+Gemma 4 31b,HS-PS1,applied,11.25,46.68,99,0.0
+Gemma 4 31b,HS-PS1,conceptual,11.62,45.37,99,0.0
+Gemma 4 31b,HS-PS1,recall,11.64,44.38,99,0.0
+Gemma 4 31b,HS-PS2,applied,10.12,56.51,102,0.0
+Gemma 4 31b,HS-PS2,conceptual,10.15,56.06,99,0.0
+Gemma 4 31b,HS-PS2,recall,10.92,51.16,96,0.0
+Gemma 4 31b,HS-PS3,applied,11.33,48.3,96,0.0
+Gemma 4 31b,HS-PS3,conceptual,11.02,48.67,90,0.0
+Gemma 4 31b,HS-PS3,recall,10.99,47.44,93,0.0
+Gemma 4 31b,HS-PS4,applied,10.58,53.11,102,0.0
+Gemma 4 31b,HS-PS4,conceptual,10.62,52.18,96,0.0
+Gemma 4 31b,HS-PS4,recall,10.84,49.73,96,0.0
+Granite 3.3 Instruct,HS-ESS1,applied,11.64,49.35,96,0.0
+Granite 3.3 Instruct,HS-ESS1,conceptual,11.67,46.9,96,0.0
+Granite 3.3 Instruct,HS-ESS1,recall,12.18,44.1,93,0.0
+Granite 3.3 Instruct,HS-ESS2,applied,11.94,44.91,96,0.0
+Granite 3.3 Instruct,HS-ESS2,conceptual,11.73,44.65,99,0.0
+Granite 3.3 Instruct,HS-ESS2,recall,11.82,43.46,93,0.0
+Granite 3.3 Instruct,HS-ESS3,applied,13.59,33.58,102,0.0
+Granite 3.3 Instruct,HS-ESS3,conceptual,12.97,35.96,96,0.0
+Granite 3.3 Instruct,HS-ESS3,recall,13.56,33.51,96,0.0
+Granite 3.3 Instruct,HS-ETS1,applied,14.53,27.13,102,0.53
+Granite 3.3 Instruct,HS-ETS1,conceptual,14.87,22.05,96,0.87
+Granite 3.3 Instruct,HS-ETS1,recall,14.07,30.13,93,0.07
+Granite 3.3 Instruct,HS-LS1,applied,12.99,38.46,99,0.0
+Granite 3.3 Instruct,HS-LS1,conceptual,12.88,38.9,99,0.0
+Granite 3.3 Instruct,HS-LS1,recall,12.18,42.3,96,0.0
+Granite 3.3 Instruct,HS-LS2,applied,12.27,41.51,84,0.0
+Granite 3.3 Instruct,HS-LS2,conceptual,12.99,36.18,87,0.0
+Granite 3.3 Instruct,HS-LS2,recall,14.01,31.32,93,0.01
+Granite 3.3 Instruct,HS-LS3,applied,12.74,41.22,93,0.0
+Granite 3.3 Instruct,HS-LS3,conceptual,12.3,42.43,93,0.0
+Granite 3.3 Instruct,HS-LS3,recall,12.63,39.47,96,0.0
+Granite 3.3 Instruct,HS-LS4,applied,13.43,37.23,96,0.0
+Granite 3.3 Instruct,HS-LS4,conceptual,13.62,32.42,96,0.0
+Granite 3.3 Instruct,HS-LS4,recall,14.3,29.15,93,0.3
+Granite 3.3 Instruct,HS-PS1,applied,12.44,43.85,99,0.0
+Granite 3.3 Instruct,HS-PS1,conceptual,13.15,38.9,99,0.0
+Granite 3.3 Instruct,HS-PS1,recall,12.7,40.73,99,0.0
+Granite 3.3 Instruct,HS-PS2,applied,11.83,52.92,102,0.0
+Granite 3.3 Instruct,HS-PS2,conceptual,11.82,49.11,99,0.0
+Granite 3.3 Instruct,HS-PS2,recall,11.9,48.61,96,0.0
+Granite 3.3 Instruct,HS-PS3,applied,11.8,49.57,96,0.0
+Granite 3.3 Instruct,HS-PS3,conceptual,12.14,44.81,90,0.0
+Granite 3.3 Instruct,HS-PS3,recall,12.43,43.16,93,0.0
+Granite 3.3 Instruct,HS-PS4,applied,11.92,47.81,102,0.0
+Granite 3.3 Instruct,HS-PS4,conceptual,12.27,44.08,96,0.0
+Granite 3.3 Instruct,HS-PS4,recall,12.33,42.71,96,0.0
+Llama 3.1 8b,HS-ESS1,applied,10.58,55.44,96,0.0
+Llama 3.1 8b,HS-ESS1,conceptual,10.92,51.31,96,0.0
+Llama 3.1 8b,HS-ESS1,recall,11.44,47.27,93,0.0
+Llama 3.1 8b,HS-ESS2,applied,11.03,50.3,96,0.0
+Llama 3.1 8b,HS-ESS2,conceptual,11.17,48.08,99,0.0
+Llama 3.1 8b,HS-ESS2,recall,11.7,45.34,93,0.0
+Llama 3.1 8b,HS-ESS3,applied,12.8,39.2,102,0.0
+Llama 3.1 8b,HS-ESS3,conceptual,12.22,41.14,96,0.0
+Llama 3.1 8b,HS-ESS3,recall,13.03,37.47,96,0.0
+Llama 3.1 8b,HS-ETS1,applied,13.75,32.98,102,0.0
+Llama 3.1 8b,HS-ETS1,conceptual,14.06,26.66,96,0.06
+Llama 3.1 8b,HS-ETS1,recall,12.57,36.35,93,0.0
+Llama 3.1 8b,HS-LS1,applied,11.74,45.79,99,0.0
+Llama 3.1 8b,HS-LS1,conceptual,12.01,43.12,99,0.0
+Llama 3.1 8b,HS-LS1,recall,11.68,45.75,96,0.0
+Llama 3.1 8b,HS-LS2,applied,11.21,48.49,84,0.0
+Llama 3.1 8b,HS-LS2,conceptual,12.34,40.28,87,0.0
+Llama 3.1 8b,HS-LS2,recall,13.8,33.81,93,0.0
+Llama 3.1 8b,HS-LS3,applied,11.26,48.91,93,0.0
+Llama 3.1 8b,HS-LS3,conceptual,11.41,48.24,93,0.0
+Llama 3.1 8b,HS-LS3,recall,11.62,45.71,96,0.0
+Llama 3.1 8b,HS-LS4,applied,11.99,44.9,96,0.0
+Llama 3.1 8b,HS-LS4,conceptual,12.24,42.31,96,0.0
+Llama 3.1 8b,HS-LS4,recall,12.99,38.03,93,0.0
+Llama 3.1 8b,HS-PS1,applied,12.16,46.57,99,0.0
+Llama 3.1 8b,HS-PS1,conceptual,11.71,46.49,99,0.0
+Llama 3.1 8b,HS-PS1,recall,12.1,45.86,99,0.0
+Llama 3.1 8b,HS-PS2,applied,10.24,61.13,102,0.0
+Llama 3.1 8b,HS-PS2,conceptual,10.7,55.36,99,0.0
+Llama 3.1 8b,HS-PS2,recall,12.31,48.86,96,0.0
+Llama 3.1 8b,HS-PS3,applied,10.88,53.45,96,0.0
+Llama 3.1 8b,HS-PS3,conceptual,11.23,49.62,90,0.0
+Llama 3.1 8b,HS-PS3,recall,11.95,45.57,93,0.0
+Llama 3.1 8b,HS-PS4,applied,11.3,53.75,102,0.0
+Llama 3.1 8b,HS-PS4,conceptual,11.12,51.56,96,0.0
+Llama 3.1 8b,HS-PS4,recall,11.72,47.54,96,0.0
+Llama 3.3 70b,HS-ESS1,applied,11.23,53.87,96,0.0
+Llama 3.3 70b,HS-ESS1,conceptual,11.44,50.53,96,0.0
+Llama 3.3 70b,HS-ESS1,recall,12.37,44.58,93,0.0
+Llama 3.3 70b,HS-ESS2,applied,11.79,47.82,96,0.0
+Llama 3.3 70b,HS-ESS2,conceptual,12.17,45.02,99,0.0
+Llama 3.3 70b,HS-ESS2,recall,12.26,44.8,93,0.0
+Llama 3.3 70b,HS-ESS3,applied,13.16,38.17,102,0.0
+Llama 3.3 70b,HS-ESS3,conceptual,13.2,38.28,96,0.0
+Llama 3.3 70b,HS-ESS3,recall,14.71,30.46,96,0.71
+Llama 3.3 70b,HS-ETS1,applied,15.01,28.44,102,1.01
+Llama 3.3 70b,HS-ETS1,conceptual,15.33,23.19,96,1.33
+Llama 3.3 70b,HS-ETS1,recall,15.73,25.18,93,1.73
+Llama 3.3 70b,HS-LS1,applied,12.86,42.39,99,0.0
+Llama 3.3 70b,HS-LS1,conceptual,13.01,40.13,99,0.0
+Llama 3.3 70b,HS-LS1,recall,12.81,42.58,96,0.0
+Llama 3.3 70b,HS-LS2,applied,12.19,43.77,84,0.0
+Llama 3.3 70b,HS-LS2,conceptual,13.21,37.75,87,0.0
+Llama 3.3 70b,HS-LS2,recall,15.18,28.12,93,1.18
+Llama 3.3 70b,HS-LS3,applied,12.33,43.96,93,0.0
+Llama 3.3 70b,HS-LS3,conceptual,12.0,46.27,93,0.0
+Llama 3.3 70b,HS-LS3,recall,12.81,41.13,96,0.0
+Llama 3.3 70b,HS-LS4,applied,13.27,41.79,96,0.0
+Llama 3.3 70b,HS-LS4,conceptual,13.73,37.03,96,0.0
+Llama 3.3 70b,HS-LS4,recall,14.75,31.42,93,0.75
+Llama 3.3 70b,HS-PS1,applied,12.11,46.6,99,0.0
+Llama 3.3 70b,HS-PS1,conceptual,12.66,42.81,99,0.0
+Llama 3.3 70b,HS-PS1,recall,12.55,42.34,99,0.0
+Llama 3.3 70b,HS-PS2,applied,9.78,61.77,102,0.0
+Llama 3.3 70b,HS-PS2,conceptual,11.08,53.45,99,0.0
+Llama 3.3 70b,HS-PS2,recall,12.66,47.05,96,0.0
+Llama 3.3 70b,HS-PS3,applied,11.49,51.1,96,0.0
+Llama 3.3 70b,HS-PS3,conceptual,12.44,44.56,90,0.0
+Llama 3.3 70b,HS-PS3,recall,13.06,40.74,93,0.0
+Llama 3.3 70b,HS-PS4,applied,10.61,55.7,102,0.0
+Llama 3.3 70b,HS-PS4,conceptual,11.81,48.38,96,0.0
+Llama 3.3 70b,HS-PS4,recall,13.02,41.22,96,0.0
+Mistral Small 3.1,HS-ESS1,applied,11.19,52.45,96,0.0
+Mistral Small 3.1,HS-ESS1,conceptual,10.52,52.2,96,0.0
+Mistral Small 3.1,HS-ESS1,recall,10.93,49.37,93,0.0
+Mistral Small 3.1,HS-ESS2,applied,10.91,49.48,96,0.0
+Mistral Small 3.1,HS-ESS2,conceptual,11.21,47.11,99,0.0
+Mistral Small 3.1,HS-ESS2,recall,10.96,47.42,93,0.0
+Mistral Small 3.1,HS-ESS3,applied,12.32,38.78,102,0.0
+Mistral Small 3.1,HS-ESS3,conceptual,11.85,42.63,96,0.0
+Mistral Small 3.1,HS-ESS3,recall,12.79,36.26,96,0.0
+Mistral Small 3.1,HS-ETS1,applied,13.03,34.95,102,0.0
+Mistral Small 3.1,HS-ETS1,conceptual,12.75,32.51,96,0.0
+Mistral Small 3.1,HS-ETS1,recall,11.87,38.72,93,0.0
+Mistral Small 3.1,HS-LS1,applied,12.06,43.29,99,0.0
+Mistral Small 3.1,HS-LS1,conceptual,11.6,44.03,99,0.0
+Mistral Small 3.1,HS-LS1,recall,11.29,45.88,96,0.0
+Mistral Small 3.1,HS-LS2,applied,11.56,45.19,84,0.0
+Mistral Small 3.1,HS-LS2,conceptual,11.99,40.67,87,0.0
+Mistral Small 3.1,HS-LS2,recall,12.87,35.64,93,0.0
+Mistral Small 3.1,HS-LS3,applied,11.72,45.74,93,0.0
+Mistral Small 3.1,HS-LS3,conceptual,11.16,47.94,93,0.0
+Mistral Small 3.1,HS-LS3,recall,11.64,43.88,96,0.0
+Mistral Small 3.1,HS-LS4,applied,12.15,42.07,96,0.0
+Mistral Small 3.1,HS-LS4,conceptual,12.46,38.47,96,0.0
+Mistral Small 3.1,HS-LS4,recall,12.55,37.06,93,0.0
+Mistral Small 3.1,HS-PS1,applied,11.26,48.83,99,0.0
+Mistral Small 3.1,HS-PS1,conceptual,12.0,43.76,99,0.0
+Mistral Small 3.1,HS-PS1,recall,11.76,44.51,99,0.0
+Mistral Small 3.1,HS-PS2,applied,12.14,54.92,102,0.0
+Mistral Small 3.1,HS-PS2,conceptual,10.93,54.07,99,0.0
+Mistral Small 3.1,HS-PS2,recall,11.34,51.69,96,0.0
+Mistral Small 3.1,HS-PS3,applied,11.08,53.11,96,0.0
+Mistral Small 3.1,HS-PS3,conceptual,11.05,49.96,90,0.0
+Mistral Small 3.1,HS-PS3,recall,11.37,47.98,93,0.0
+Mistral Small 3.1,HS-PS4,applied,10.84,54.24,102,0.0
+Mistral Small 3.1,HS-PS4,conceptual,11.12,49.58,96,0.0
+Mistral Small 3.1,HS-PS4,recall,11.47,47.03,96,0.0
+Nemotron 3 Nano 30ba3,HS-ESS1,applied,10.68,53.99,96,0.0
+Nemotron 3 Nano 30ba3,HS-ESS1,conceptual,11.63,47.29,96,0.0
+Nemotron 3 Nano 30ba3,HS-ESS1,recall,11.74,45.13,93,0.0
+Nemotron 3 Nano 30ba3,HS-ESS2,applied,11.73,45.9,96,0.0
+Nemotron 3 Nano 30ba3,HS-ESS2,conceptual,11.73,44.47,99,0.0
+Nemotron 3 Nano 30ba3,HS-ESS2,recall,12.21,41.58,93,0.0
+Nemotron 3 Nano 30ba3,HS-ESS3,applied,13.0,39.11,102,0.0
+Nemotron 3 Nano 30ba3,HS-ESS3,conceptual,12.4,40.0,96,0.0
+Nemotron 3 Nano 30ba3,HS-ESS3,recall,13.45,34.11,96,0.0
+Nemotron 3 Nano 30ba3,HS-ETS1,applied,12.98,37.69,102,0.0
+Nemotron 3 Nano 30ba3,HS-ETS1,conceptual,12.88,34.1,96,0.0
+Nemotron 3 Nano 30ba3,HS-ETS1,recall,12.58,37.48,93,0.0
+Nemotron 3 Nano 30ba3,HS-LS1,applied,12.49,40.85,99,0.0
+Nemotron 3 Nano 30ba3,HS-LS1,conceptual,12.49,39.61,99,0.0
+Nemotron 3 Nano 30ba3,HS-LS1,recall,12.42,40.52,96,0.0
+Nemotron 3 Nano 30ba3,HS-LS2,applied,11.39,46.8,84,0.0
+Nemotron 3 Nano 30ba3,HS-LS2,conceptual,12.78,37.49,87,0.0
+Nemotron 3 Nano 30ba3,HS-LS2,recall,14.03,30.7,93,0.03
+Nemotron 3 Nano 30ba3,HS-LS3,applied,12.39,42.97,93,0.0
+Nemotron 3 Nano 30ba3,HS-LS3,conceptual,12.26,42.89,93,0.0
+Nemotron 3 Nano 30ba3,HS-LS3,recall,12.17,41.27,96,0.0
+Nemotron 3 Nano 30ba3,HS-LS4,applied,12.69,40.56,96,0.0
+Nemotron 3 Nano 30ba3,HS-LS4,conceptual,12.87,34.53,96,0.0
+Nemotron 3 Nano 30ba3,HS-LS4,recall,14.09,28.73,93,0.09
+Nemotron 3 Nano 30ba3,HS-PS1,applied,12.06,44.71,99,0.0
+Nemotron 3 Nano 30ba3,HS-PS1,conceptual,12.4,41.8,99,0.0
+Nemotron 3 Nano 30ba3,HS-PS1,recall,12.66,40.14,99,0.0
+Nemotron 3 Nano 30ba3,HS-PS2,applied,9.5,59.11,102,0.0
+Nemotron 3 Nano 30ba3,HS-PS2,conceptual,10.9,53.87,99,0.0
+Nemotron 3 Nano 30ba3,HS-PS2,recall,11.35,50.49,96,0.0
+Nemotron 3 Nano 30ba3,HS-PS3,applied,11.11,51.52,96,0.0
+Nemotron 3 Nano 30ba3,HS-PS3,conceptual,11.69,46.13,90,0.0
+Nemotron 3 Nano 30ba3,HS-PS3,recall,12.11,43.34,93,0.0
+Nemotron 3 Nano 30ba3,HS-PS4,applied,10.44,53.8,102,0.0
+Nemotron 3 Nano 30ba3,HS-PS4,conceptual,11.59,47.22,96,0.0
+Nemotron 3 Nano 30ba3,HS-PS4,recall,11.56,44.91,96,0.0
+OSS 120b,HS-ESS1,applied,10.68,54.22,96,0.0
+OSS 120b,HS-ESS1,conceptual,10.78,51.76,96,0.0
+OSS 120b,HS-ESS1,recall,10.98,49.29,93,0.0
+OSS 120b,HS-ESS2,applied,10.67,51.77,96,0.0
+OSS 120b,HS-ESS2,conceptual,10.77,50.76,99,0.0
+OSS 120b,HS-ESS2,recall,11.52,45.77,93,0.0
+OSS 120b,HS-ESS3,applied,11.61,45.39,102,0.0
+OSS 120b,HS-ESS3,conceptual,11.03,48.14,96,0.0
+OSS 120b,HS-ESS3,recall,12.46,39.72,96,0.0
+OSS 120b,HS-ETS1,applied,11.8,43.62,102,0.0
+OSS 120b,HS-ETS1,conceptual,11.59,42.35,96,0.0
+OSS 120b,HS-ETS1,recall,11.38,42.94,93,0.0
+OSS 120b,HS-LS1,applied,11.9,44.26,99,0.0
+OSS 120b,HS-LS1,conceptual,11.76,44.43,99,0.0
+OSS 120b,HS-LS1,recall,12.12,42.94,96,0.0
+OSS 120b,HS-LS2,applied,10.69,51.27,84,0.0
+OSS 120b,HS-LS2,conceptual,11.45,45.16,87,0.0
+OSS 120b,HS-LS2,recall,12.82,36.93,93,0.0
+OSS 120b,HS-LS3,applied,11.69,46.28,93,0.0
+OSS 120b,HS-LS3,conceptual,11.01,48.76,93,0.0
+OSS 120b,HS-LS3,recall,11.2,46.27,96,0.0
+OSS 120b,HS-LS4,applied,11.74,45.54,96,0.0
+OSS 120b,HS-LS4,conceptual,11.73,42.28,96,0.0
+OSS 120b,HS-LS4,recall,12.47,37.92,93,0.0
+OSS 120b,HS-PS1,applied,11.54,47.09,99,0.0
+OSS 120b,HS-PS1,conceptual,11.6,46.35,99,0.0
+OSS 120b,HS-PS1,recall,12.1,43.38,99,0.0
+OSS 120b,HS-PS2,applied,9.87,58.2,102,0.0
+OSS 120b,HS-PS2,conceptual,9.85,58.14,99,0.0
+OSS 120b,HS-PS2,recall,10.59,52.31,96,0.0
+OSS 120b,HS-PS3,applied,10.86,52.1,96,0.0
+OSS 120b,HS-PS3,conceptual,10.79,51.02,90,0.0
+OSS 120b,HS-PS3,recall,11.72,45.41,93,0.0
+OSS 120b,HS-PS4,applied,9.87,56.66,102,0.0
+OSS 120b,HS-PS4,conceptual,10.68,52.07,96,0.0
+OSS 120b,HS-PS4,recall,10.89,50.02,96,0.0
+OSS 20b,HS-ESS1,applied,10.45,55.89,96,0.0
+OSS 20b,HS-ESS1,conceptual,11.11,51.09,96,0.0
+OSS 20b,HS-ESS1,recall,10.83,50.27,93,0.0
+OSS 20b,HS-ESS2,applied,10.44,53.49,96,0.0
+OSS 20b,HS-ESS2,conceptual,10.46,52.28,99,0.0
+OSS 20b,HS-ESS2,recall,10.92,48.31,93,0.0
+OSS 20b,HS-ESS3,applied,11.5,48.46,102,0.0
+OSS 20b,HS-ESS3,conceptual,10.58,51.15,96,0.0
+OSS 20b,HS-ESS3,recall,12.43,41.08,96,0.0
+OSS 20b,HS-ETS1,applied,11.71,45.15,102,0.0
+OSS 20b,HS-ETS1,conceptual,11.39,43.68,96,0.0
+OSS 20b,HS-ETS1,recall,10.93,44.61,93,0.0
+OSS 20b,HS-LS1,applied,11.48,46.74,99,0.0
+OSS 20b,HS-LS1,conceptual,11.09,47.63,99,0.0
+OSS 20b,HS-LS1,recall,11.38,45.96,96,0.0
+OSS 20b,HS-LS2,applied,10.49,53.55,84,0.0
+OSS 20b,HS-LS2,conceptual,11.16,47.06,87,0.0
+OSS 20b,HS-LS2,recall,12.5,38.87,93,0.0
+OSS 20b,HS-LS3,applied,11.76,48.72,93,0.0
+OSS 20b,HS-LS3,conceptual,10.59,50.53,93,0.0
+OSS 20b,HS-LS3,recall,10.72,48.9,96,0.0
+OSS 20b,HS-LS4,applied,11.45,49.07,96,0.0
+OSS 20b,HS-LS4,conceptual,11.55,45.01,96,0.0
+OSS 20b,HS-LS4,recall,12.39,38.34,93,0.0
+OSS 20b,HS-PS1,applied,11.44,47.74,99,0.0
+OSS 20b,HS-PS1,conceptual,11.2,48.1,99,0.0
+OSS 20b,HS-PS1,recall,11.86,44.88,99,0.0
+OSS 20b,HS-PS2,applied,9.96,57.48,102,0.0
+OSS 20b,HS-PS2,conceptual,9.86,58.22,99,0.0
+OSS 20b,HS-PS2,recall,10.84,52.62,96,0.0
+OSS 20b,HS-PS3,applied,10.66,53.66,96,0.0
+OSS 20b,HS-PS3,conceptual,10.6,52.37,90,0.0
+OSS 20b,HS-PS3,recall,11.4,47.93,93,0.0
+OSS 20b,HS-PS4,applied,9.73,58.07,102,0.0
+OSS 20b,HS-PS4,conceptual,10.65,52.45,96,0.0
+OSS 20b,HS-PS4,recall,10.94,49.75,96,0.0

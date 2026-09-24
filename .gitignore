@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Local scratch / backup working directories (not research deliverables)
+_smoke_scratch/
+_backups/
+
+# Local operational run state (job PIDs/timestamps + logs containing local absolute paths)
+results/_runs/
+
+# Docs — keep only the decisions log public; the rest regenerate from the pipeline
+docs/*
+!docs/DECISIONS.md
+
+# Copyrighted source document — not confirmed clear for public redistribution;
+# the attributed excerpts actually used/published live in data/standards.yaml
+high school NGSS.pdf
+
+# R
+.Rhistory
+
+# Claude Code local-only settings (personal Bash-permission allowlist)
+.claude/settings.local.json
+
+# OS
+.DS_Store
